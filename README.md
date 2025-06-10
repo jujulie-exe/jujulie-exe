@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jujulie-exe
-- 👀 I’m interested in coding C#, 3D, artificial life
+- 👀 I’m interested in coding C/C++, 3D, artificial life
 - 🌱 I’m currently learning at 19 (42 school)
 - 💞️ I’m looking to collaborate on arificial life project 
 - 📫 How to reach me IG #jujulie.exe
