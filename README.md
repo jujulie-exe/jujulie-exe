@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @jujulie-exe
-- 👀 I’m interested in coding C/C++, 3D, artificial life
-- 🌱 I’m currently learning at 19 (42 school)
-- 💞️ I’m looking to collaborate on arificial life project 
+- 👀 I’m interested in coding C/C++, Computer visualization 
+- 🌱 I’m currently learning at 42 Belgium (42 school)
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me IG #jujulie.exe
-- 😄 Pronouns: She
 - ⚡ Fun fact: 
 
 <!---
