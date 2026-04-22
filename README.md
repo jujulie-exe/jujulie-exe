@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jujulie-exe
-- 👀 I’m interested in coding C/C++, Computer visualization 
+- 👀 I’m interested in coding C/C++, CV
 - 🌱 I’m currently learning at 42 Belgium (42 school)
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me IG #jujulie.exe
